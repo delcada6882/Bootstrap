@@ -1,5 +1,5 @@
 #front {
-  background: rgba(10, 10, 10, 0.4) url(/images/pexels-ola-dapo-3521937.jpg) center center;
+  background: rgba(10, 10, 10, 0.4) url(../images/pexels-ola-dapo-3521937.jpg) center center;
   background-size: cover;
   background-blend-mode: darken;
 }
