@@ -1,5 +1,6 @@
 #front {
-  background: rgba(10, 10, 10, 0.2) url(/images/pexels-ola-dapo-3521937.jpg);
+  background: rgba(10, 10, 10, 0.4) url(/images/pexels-ola-dapo-3521937.jpg) center center;
+  background-size: cover;
   background-blend-mode: darken;
 }
 
@@ -8,7 +9,7 @@
 }
 
 .fs-10 {
-  font-size: 80px;
+  font-size: calc(5rem + 0.9vw) !important;
 }
 
 .purp {
